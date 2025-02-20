@@ -1,7 +1,7 @@
 ### Hey! I'm Vinícius Silva 👋
 
 - 🔭 I’m currently working on SAP in the SD module
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently deepening my Python knowledge 
 - 😄 Pronouns: he/him
 
 
